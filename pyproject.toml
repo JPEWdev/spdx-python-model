@@ -22,7 +22,7 @@ classifiers = [
 
 [project.optional-dependencies]
 dev = [
-    "shacl2code == 0.0.20",
+    "shacl2code == 0.0.21",
     "pytest >= 7.4",
 ]
 
